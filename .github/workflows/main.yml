@@ -2,7 +2,7 @@
 
 on: [push]
 
-name: cicd test
+name: Pipeline test
 
 jobs: 
   build: 
